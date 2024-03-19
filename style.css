@@ -88,6 +88,10 @@ button.white {
   background-color: white;
 }
 
+button.linen {
+  background-color: linen;
+}
+
 button:hover {
   color: red;
   background-color: yellow;
