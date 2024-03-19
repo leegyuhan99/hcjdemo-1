@@ -76,6 +76,18 @@ button {
     border-width: 0px; */
 }
 
+button.pink {
+  background-color: pink;
+}
+
+button.lightblue {
+  background-color: lightblue;
+}
+
+button.white {
+  background-color: white;
+}
+
 button:hover {
   color: red;
   background-color: yellow;
